@@ -1,0 +1,18 @@
+version: 2
+updates:
+  - package-ecosystem: "npm"
+    directory: "/ui"
+    schedule:
+      interval: "daily"
+      time: "07:00"
+      timezone: "Europe/Warsaw"
+    open-pull-requests-limit: 15
+
+  - package-ecosystem: "npm"
+    directory: "/core"
+    schedule:
+      interval: "daily"
+      time: "07:00"
+      timezone: "Europe/Warsaw"
+    open-pull-requests-limit: 10
+
