@@ -50,7 +50,7 @@
     "@reown/appkit-adapter-wagmi": "^1.6.0",
     "@farcaster/frame-sdk": "^0.1.8",
     "@walletconnect/sign-client": "2.15.0",
-    "@walletconnect/types": "2.15.0",
+    "@walletconnect/types": "2.23.0",
     "ethers": "^6.7.0",
     "@solana/web3.js": "^1.80.0",
     "@lens-protocol/react-web": "^2.2.0",
